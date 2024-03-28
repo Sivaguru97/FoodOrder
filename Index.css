@@ -1,0 +1,120 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Protest+Guerrilla&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Stardos+Stencil:wght@400;700&display=swap"); */
+body,
+html {
+  margin: 0;
+}
+
+.navbar {
+  display: flex;
+  background-color: rgb(255, 113, 113);
+  align-items: center;
+  padding: 1.5%;
+  font-weight: 900;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  letter-spacing: 2px;
+  justify-content: space-around;
+}
+#img1 {
+  height: 1rem;
+  background-color: transparent;
+}
+#navitem {
+  padding-left: 10px;
+}
+.container {
+  display: flex;
+  background-color: antiquewhite;
+  width: 100%;
+  height: 100%;
+}
+#text {
+  background: linear-gradient(
+    106.5deg,
+    rgba(251, 208, 91, 0.91) 23%,
+    rgba(208, 192, 213, 0.8) 93%
+  );
+}
+#text1 {
+  margin-top: 10%;
+  font-size: 60px;
+  margin-left: 60px;
+}
+#para {
+  margin-left: 60px;
+  margin-right: 134px;
+  font-size: 18px;
+  line-height: 25px;
+}
+#img2 {
+  width: 740px;
+  height: 100%;
+}
+#btn {
+  width: 150px;
+  height: 35px;
+  margin-left: 60px;
+  margin-top: 50px;
+  background-color: rgb(255, 113, 113);
+  border: none;
+  margin-bottom: 120px;
+}
+.container1 {
+  display: flex;
+  margin-top: 0px;
+  background: linear-gradient(
+    106.5deg,
+    rgba(251, 208, 91, 0.91) 23%,
+    rgba(208, 192, 213, 0.8) 93%
+  );
+}
+#img3 {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 10px;
+}
+
+#img4 {
+  width: 200px;
+  height: 200px;
+}
+
+#img5 {
+  margin-top: 100px;
+  margin-left: 10px;
+  width: 200px;
+  height: 415px;
+}
+#sec2 {
+  margin-left: 80px;
+  margin-top: 100px;
+}
+#sec2 {
+  margin-top: 100px;
+  margin-left: 80px;
+  padding-bottom: 100px;
+}
+#cont {
+  height: 250px;
+  width: 450px;
+  margin-left: 140px;
+  margin-top: 160px;
+  background-color: rgb(255, 113, 113);
+}
+#tex {
+  margin-left: 30px;
+}
+#tex1 {
+  margin-left: 30px;
+  font-size: 45px;
+  letter-spacing: 6px;
+}
+#click {
+  margin-left: 30px;
+  margin-top: 0;
+}
+#img6 {
+  margin-top: -5px;
+  margin-left: 70px;
+  position: absolute;
+  width: 20px;
+}
